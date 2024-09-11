@@ -12,7 +12,7 @@ Completed - завершенные задания. <br/>
 ![Тест_кейс3](https://github.com/user-attachments/assets/3d19c21f-62ee-4d29-9a70-039fcb321ec5)
 
 # Баг-репорты
-В процессе тестирования были обнаружены дефекты в работе приложения и были задокументированы.
+В процессе тестирования были обнаружены дефекты в работе приложения и были задокументированы в Jira.
 
 ![Баг_Репорт1](https://github.com/user-attachments/assets/46c8e0a2-abe4-43db-8960-dee7c617e3bd)
 ![Баг_Репорт2](https://github.com/user-attachments/assets/6d609541-364d-4dec-b640-e485fb2ee25c)
